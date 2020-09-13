@@ -7,6 +7,7 @@ namespace ProjetoVerao.DML
         public string Nome { get; set; }
         public string Extensao { get; set; }
         public string Caminho { get; set; }
+        public string Base64 { get; set; }
         public DateTime DataCadastro { get; set; }
         public DateTime DataManutencao { get; set; }
     }

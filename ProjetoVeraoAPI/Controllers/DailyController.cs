@@ -12,9 +12,10 @@ namespace ProjetoVeraoAPI.Controllers
     public class DailyController : Controller
     {
         
-        public IActionResult Index(Daily daily)
+        public IActionResult Cadastro(Daily daily)
         {
-            
+            //TODO
+            return null;
         }
     }
 }
